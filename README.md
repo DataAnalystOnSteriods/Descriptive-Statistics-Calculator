@@ -17,7 +17,7 @@
 
 ## Usage
 
-![](https://github.com/kristianroger0101/Descriptive-Statistics-Calculator/blob/main/calculate_statistics/usage.gif)
+![](https://github.com/kristianroger0101/Descriptive-Statistics-Calculator/blob/main/calculate_statistics/gifs/usage.gif)
 
 ## Contributing
 
