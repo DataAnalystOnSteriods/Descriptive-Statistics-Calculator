@@ -55,7 +55,7 @@ def calculate_and_show_stats(window) -> None:
         if numbers.lstrip('-').isnumeric():
             LIST_OF_NUMBERS.append(int(numbers))
 
-    if len(LIST_OF_NUMBERS) > 10_000:
+    if len(LIST_OF_NUMBERS) > 2_500:
         WARNING_TITLE = "Warning!"
         WARNING_MESSEGE = "Please, Enter less than 10,000 values!"
         showwarning(WARNING_TITLE, WARNING_MESSEGE)
