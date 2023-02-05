@@ -4,7 +4,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jkristianroger0101.Descriptive-Statistics-Calculator&left_color=red&right_color=green)
 
-
+<img src="https://img.shields.io/badge/made%20with-python-yellow.svg" alt="Made with PYTHON"></img>
 
 *A program that calculates the descriptive statistics of a numerical list of values up to 2500, and also displays a kernel density plot.*
 
