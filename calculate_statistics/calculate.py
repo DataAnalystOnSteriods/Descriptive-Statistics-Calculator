@@ -57,7 +57,7 @@ def calculate_and_show_stats(window) -> None:
 
     if len(LIST_OF_NUMBERS) > 2_500:
         WARNING_TITLE = "Warning!"
-        WARNING_MESSEGE = "Please, Enter less than 10,000 values!"
+        WARNING_MESSEGE = "Please, Enter less than 2,500 values!"
         showwarning(WARNING_TITLE, WARNING_MESSEGE)
     elif len(LIST_OF_NUMBERS) <= 1:
         WARNING_TITLE = "Warning!"
