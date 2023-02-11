@@ -2,17 +2,19 @@
   PyCalStat
 </h1>
 
+<p align="Center">
+  A Python GUI for calculating descriptive statistics.
+ </p>
 
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/DataAnalystOnSteriods/Descriptive-Statistics-Calculator?color=%232FA572&logo=%232FA572&logoColor=%232FA572">
 
 <a href="https://visitorbadge.io/status?path=DataAnalystOnSteriods%2FDescriptive-Statistics-Calculator"><img src="https://api.visitorbadge.io/api/visitors?path=DataAnalystOnSteriods%2FDescriptive-Statistics-Calculator&label=visitors&countColor=%232fa572&style=flat&labelStyle=lower" /></a>
 
-
 <a href="https://www.codefactor.io/repository/github/dataanalystonsteriods/descriptive-statistics-calculator"><img src="https://www.codefactor.io/repository/github/dataanalystonsteriods/descriptive-statistics-calculator/badge" alt="CodeFactor" /></a>
   
 <img alt="GitHub" src="https://img.shields.io/github/license/DataAnalystOnSteriods/Descriptive-Statistics-Calculator?color=%232FA572&logo=%232FA572&logoColor=%232FA572">
 
-*A program that calculates the descriptive statistics of a numerical list of values up to 2500, and also displays a kernel density plot.*
+
 
 ## Getting Started
 
@@ -47,7 +49,7 @@ STEP 4: Run the ```main.py``` file using any Python IDEs
 ![](https://github.com/kristianroger0101/Descriptive-Statistics-Calculator/blob/main/calculate_statistics/gifs/usage.gif)
 
 ## License
-*This project is licensed under the GNU General Public License v3.0*
+*This project is licensed under the MIT License*
 
 ## Contributing
 
