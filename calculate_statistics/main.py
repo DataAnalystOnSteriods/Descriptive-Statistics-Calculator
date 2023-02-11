@@ -2,7 +2,6 @@ import tkinter as tk
 import customtkinter as ctk
 import matplotlib.font_manager
 import calculate
-from PIL import ImageTk, Image
 import sys
 
 
@@ -12,7 +11,7 @@ def main() -> None:
     ROOT_GEOMETRY = "900x570"
     MAIN_WINDOW.geometry(ROOT_GEOMETRY)
 
-    APP_TITLE = "Descriptive Statistics Calculator"
+    APP_TITLE = "PyCalStat"
     MAIN_WINDOW.title(APP_TITLE)
 
     MAX_WINDOW_WIDTH = 900
@@ -78,7 +77,7 @@ def main() -> None:
 
     calculate.textbox_input(BOX_AND_BUTTON_FRAME)
 
-    FRONT_TITLE = ShowCalculationLabels(300, 0, 'Descriptive Statistics Calculator')
+    FRONT_TITLE = ShowCalculationLabels(370, 0, 'PyCalStat')
 
     calculate.option_setter(SAMPLE_OR_POPULATION_OPTION)
     calculate.population_button(BOX_AND_BUTTON_FRAME, SAMPLE_OR_POPULATION_OPTION)
