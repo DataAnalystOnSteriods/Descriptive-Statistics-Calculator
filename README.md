@@ -4,7 +4,7 @@
 
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/DataAnalystOnSteriods/Descriptive-Statistics-Calculator">
 
-<a href="https://visitorbadge.io/status?path=DataAnalystOnSteriods%2FDescriptive-Statistics-Calculator"><img src="https://api.visitorbadge.io/api/visitors?path=DataAnalystOnSteriods%2FDescriptive-Statistics-Calculator&labelColor=%232fa572&countColor=%23263759&style=flat-square&labelStyle=lower" /></a>
+<a href="https://visitorbadge.io/status?path=DataAnalystOnSteriods%2FDescriptive-Statistics-Calculator"><img src="https://api.visitorbadge.io/api/visitors?path=DataAnalystOnSteriods%2FDescriptive-Statistics-Calculator&labelColor=%232fa572&countColor=%232fa572&style=flat-square&labelStyle=lower" /></a>
 
 <a href="https://www.codefactor.io/repository/github/dataanalystonsteriods/descriptive-statistics-calculator"><img src="https://www.codefactor.io/repository/github/dataanalystonsteriods/descriptive-statistics-calculator/badge" alt="CodeFactor" /></a>
 
