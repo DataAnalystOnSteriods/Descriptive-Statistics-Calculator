@@ -14,8 +14,6 @@
   
 <img alt="GitHub" src="https://img.shields.io/github/license/DataAnalystOnSteriods/Descriptive-Statistics-Calculator?color=%232FA572&logo=%232FA572&logoColor=%232FA572">
 
-
-
 ## Getting Started
 
 ### Prerequisites
@@ -37,12 +35,12 @@ STEP 1: Download [Github Desktop](https://desktop.github.com)
 
 STEP 2: Click ```File``` > ```Clone Repository```
 
-STEP 3: Then enter the link: https://github.com/kristianroger0101/Descriptive-Statistics-Calculator/
+STEP 3: Then enter the link: https://github.com/DataAnalystOnSteriods/Descriptive-Statistics-Calculator/
 
 STEP 4: Run the ```main.py``` file using any Python IDEs
 
 #### Installation - Zip File
-*You can click this [link](https://github.com/kristianroger0101/Descriptive-Statistics-Calculator/archive/refs/heads/main.zip) here and it will automatically start*
+*You can click this [link](https://github.com/DataAnalystOnSteriods/Descriptive-Statistics-Calculator/archive/refs/heads/main.zip) here and it will automatically start*
 
 ## Usage
 
