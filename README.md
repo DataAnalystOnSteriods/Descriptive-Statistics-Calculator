@@ -44,7 +44,7 @@ STEP 4: Run the ```main.py``` file using any Python IDEs
 
 ## Usage
 
-![](https://github.com/kristianroger0101/Descriptive-Statistics-Calculator/blob/main/calculate_statistics/gifs/usage.gif)
+![](https://github.com/DataAnalystOnSteriods/Descriptive-Statistics-Calculator/blob/main/calculate_statistics/gifs/example.gif)
 
 ## License
 *This project is licensed under the MIT License*
